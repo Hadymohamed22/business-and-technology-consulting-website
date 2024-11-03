@@ -1,0 +1,155 @@
+[
+    {
+        "id": "1",
+        "imgSrc": "http://surl.li/xeoney",
+        "title": "The Future of Cloud Computing",
+        "date": "October 19, 2024",
+        "type": "Cloud Solutions",
+        "author": "John Doe",
+        "word_count": 1250,
+        "last_updated": "October 22, 2024",
+        "summary": "This article explores the latest trends in cloud computing and how they can benefit businesses.",
+        "related_posts": [
+            "Top 5 Cloud Solutions for Startups",
+            "How Cloud Solutions Improve Data Security"
+        ],
+        "question": "What challenges have you faced with cloud computing? Share your thoughts in the comments!",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "2",
+        "title": "Top 5 Cloud Solutions for Startups",
+        "imgSrc": "http://surl.li/bvggrq",
+        "date": "October 2, 2024",
+        "type": "Cloud Solutions",
+        "author": "Jane Smith",
+        "word_count": 900,
+        "last_updated": "October 5, 2024",
+        "summary": "Choosing the right cloud platform can give your startup the scalability and flexibility it needs. Here are the top 5 cloud solutions for growing businesses.",
+        "related_posts": [
+            "How Cloud Solutions Improve Data Security",
+            "How to Optimize Your Cloud Costs"
+        ],
+        "question": "Have you chosen a cloud solution for your startup? What factors influenced your decision?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "3",
+        "title": "Best Practices for Developing Scalable Web Applications",
+        "imgSrc": "http://surl.li/glqkoy",
+        "date": "September 29, 2024",
+        "type": "Software Development",
+        "author": "Alex Johnson",
+        "word_count": 1100,
+        "last_updated": "October 1, 2024",
+        "summary": "Scalability is critical for web applications that plan to grow. In this post, we outline key strategies for building scalable software solutions.",
+        "related_posts": [
+            "The Benefits of Custom Software for Small Businesses",
+            "10 JavaScript Tips for Faster Development"
+        ],
+        "question": "What challenges have you faced in developing scalable applications?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "4",
+        "title": "How Cloud Solutions Improve Data Security",
+        "imgSrc": "http://surl.li/xchnqk",
+        "date": "September 20, 2024",
+        "type": "Cloud Solutions",
+        "author": "Sarah Lee",
+        "word_count": 950,
+        "last_updated": "September 25, 2024",
+        "summary": "Data security is a top priority for businesses today. Learn how cloud solutions can enhance your data protection efforts while maintaining operational efficiency.",
+        "related_posts": [
+            "Protecting Your Business with Data Backup Solutions",
+            "How to Optimize Your Cloud Costs"
+        ],
+        "question": "How do you ensure data security in your organization?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "5",
+        "title": "Organizing Your Data for Better Decision-Making",
+        "imgSrc": "http://surl.li/blzdnx",
+        "date": "September 15, 2024",
+        "type": "Data Management",
+        "author": "Michael Brown",
+        "word_count": 800,
+        "last_updated": "September 18, 2024",
+        "summary": "Effective data organization is key to making better business decisions. Discover strategies to organize and utilize your data more efficiently.",
+        "related_posts": [
+            "How to Optimize Your Cloud Costs",
+            "Best Practices for Developing Scalable Web Applications"
+        ],
+        "question": "What data management strategies have worked best for you?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "6",
+        "title": "10 JavaScript Tips for Faster Development",
+        "imgSrc": "http://surl.li/btblyy",
+        "date": "September 10, 2024",
+        "type": "Tech Tips",
+        "author": "Emma Wilson",
+        "word_count": 600,
+        "last_updated": "September 12, 2024",
+        "summary": "JavaScript is a powerful tool, but knowing how to use it efficiently is essential. Here are 10 tips to improve your development speed.",
+        "related_posts": [
+            "Best Practices for Developing Scalable Web Applications",
+            "The Benefits of Custom Software for Small Businesses"
+        ],
+        "question": "What are your go-to tips for faster JavaScript development?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "7",
+        "title": "The Benefits of Custom Software for Small Businesses",
+        "imgSrc": "http://surl.li/yzgpmv",
+        "date": "September 3, 2024",
+        "type": "Software Development",
+        "author": "Liam Davis",
+        "word_count": 1050,
+        "last_updated": "September 5, 2024",
+        "summary": "Custom software can provide small businesses with the tools they need to succeed. Learn how developing tailored solutions can improve your operations.",
+        "related_posts": [
+            "Top 5 Cloud Solutions for Startups",
+            "How Data Management Can Transform Your Business"
+        ],
+        "question": "Have you considered custom software for your business? Why or why not?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "8",
+        "title": "Protecting Your Business with Data Backup Solutions",
+        "imgSrc": "http://surl.li/brraws",
+        "date": "August 30, 2024",
+        "type": "Data Management",
+        "author": "Ava Johnson",
+        "word_count": 850,
+        "last_updated": "September 1, 2024",
+        "summary": "Data backup is essential for ensuring business continuity. Explore the best data backup solutions for businesses of all sizes.",
+        "related_posts": [
+            "How to Optimize Your Cloud Costs",
+            "Organizing Your Data for Better Decision-Making"
+        ],
+        "question": "What data backup solutions have you implemented in your business?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    },
+    {
+        "id": "9",
+        "title": "How to Optimize Your Cloud Costs",
+        "imgSrc": "http://surl.li/syozmz",
+        "date": "August 22, 2024",
+        "type": "Cloud Solutions",
+        "author": "Sophia Martinez",
+        "word_count": 700,
+        "last_updated": "August 25, 2024",
+        "summary": "Managing cloud expenses can be challenging. This post provides tips on how to optimize your cloud infrastructure to minimize costs without sacrificing performance.",
+        "related_posts": [
+            "The Future of Cloud Computing",
+            "Top 5 Cloud Solutions for Startups"
+        ],
+        "question": "How do you manage your cloud expenses?",
+        "contact_us": "If you have any questions, feel free to reach out at contact@technex.com."
+    }
+]
